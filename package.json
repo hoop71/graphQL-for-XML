@@ -1,0 +1,16 @@
+{
+  "name": "graphQL",
+  "version": "1.0.0",
+  "description": "graphQL Service",
+  "main": "index.js",
+  "author": "mhooper72",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "node-fetch": "^2.2.0",
+    "xml2js": "^0.4.19"
+  }
+}
